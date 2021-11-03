@@ -2,4 +2,6 @@
 Debug/
 Release/
 OpenGL_libs/
+*.dll
+*.vcxproj*
 ~$*
